@@ -1,1 +1,6 @@
 const game = new ticTacToe();
+
+   
+
+
+
